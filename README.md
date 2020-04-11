@@ -1,0 +1,1 @@
+# symfony-monolog-bridge-dependency-problem-reproducer
